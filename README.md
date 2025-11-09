@@ -5,14 +5,12 @@ This project performs **Exploratory Data Analysis (EDA)** on IPL (Indian Premier
 
 The analysis focuses on understanding team performances, player achievements, and match trends across multiple IPL seasons.
 
----
 
 ## 🎯 Objectives
 - Analyze IPL match data to identify performance trends.  
 - Visualize matches per season, winning teams, and toss decisions.  
 - Practice real-world **EDA (Exploratory Data Analysis)** techniques with Python data libraries.
 
----
 
 ## 📊 Project Summary
 The analysis identifies and visualizes:
@@ -21,7 +19,6 @@ The analysis identifies and visualizes:
 - Toss decision preferences  
 - Top venues and players  
 
----
 
 ## 🔍 Key Insights
 - 🗓️ **Highest matches** were played during IPL **2011–2012 seasons**  
@@ -29,7 +26,6 @@ The analysis identifies and visualizes:
 - 🧢 Around **61% of captains** prefer to **field first** after winning the toss  
 - 🏟️ **Eden Gardens** is the most frequently used stadium
 
----
 
 ## 🧰 Tools & Technologies
 - **Python 3.x**
@@ -38,36 +34,31 @@ The analysis identifies and visualizes:
 - **Seaborn**
 - Jupyter / VS Code
 
----
 
 ## 📈 Results & Visuals
+
 ### Matches Played Per Season
-![Matches Per Season](visuals/Figure_1.png)
+![Matches Played Per Season](visuals/matches_played_per_season.png)
 
 ### Top 10 Teams by Wins
-![Top 10 Teams by Wins](visuals/Figure_2.png)
+![Top 10 Teams by Wins](visuals/top_teams_by_wins.png)
 
 ### Toss Decision Distribution
-![Toss Decision Distribution](visuals/Figure_3.png)
+![Toss Decision Distribution](visuals/toss_decision_distribution.png)
 
----
 
 ## 📂 Dataset
 The dataset used for analysis is publicly available IPL match data, containing match details, teams, venues, and player statistics.
 
----
 
 ## 💡 Future Improvements
 - Add player performance prediction using regression models  
 - Create an interactive dashboard using **Plotly** or **Power BI**  
 - Include year-wise player comparison charts  
 
----
-
 ## 📝 License
 This project is licensed under the **MIT License** — feel free to use or modify it for your own learning or portfolio.
 
----
 
 ### 👨‍💻 Author
 **Kislaynath**  
